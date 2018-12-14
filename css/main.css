@@ -92,7 +92,7 @@ button {
 
 .container {
   margin: auto;
-  padding: 0 15px;
+  padding: 15px;
   width: 960px;
   max-width: 100%;
 }
@@ -223,7 +223,7 @@ button {
   margin-bottom: 35px;
   width: 960px;
   height: 350px;
-  background: url("../img/header-bg.jpeg");
+  background: url("file:///Users/oualidbouzahzah/Desktop/librairie-clapet-master/img/header-bg.jpeg");
   background-size: cover;
   background-position: center bottom;
   overflow: hidden;
@@ -263,6 +263,7 @@ button {
 
 .header__nav {
   background-color: rgba(0, 0, 0, 0.85);
+  text-align: center;
 }
 
 .nav-main__item {
@@ -290,6 +291,7 @@ button {
   height: 1px;
   border: none;
   background-color: #d9d9d9;
+
 }
 
 
@@ -475,3 +477,79 @@ button {
   text-align: center;
   margin-bottom: 35px;
 }
+.colonnes {
+  display: flex;
+  }
+
+  .cover {
+    min-width: 500px;
+    }
+
+    .Une-nuit-le-jeune-M {
+  width: 600px;
+  height: 87px;
+  font-family: WorkSans;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #1a1a1a;
+}
+
+.Il-fait-une-dcouver {
+  width: 600px;
+  height: 216px;
+  font-family: WorkSans;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #1a1a1a;
+}
+
+.Jim-Lynch-est-un-im {
+  width: 584px;
+  height: 86px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #e8a27d ;
+}
+
+.christine-ferniot
+ width: 600px;
+ height: 19px;
+ font-family: WorkSans;
+ font-size: 16px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: normal;
+ letter-spacing: normal;
+ text-align: right;
+ color: #1a1a1a;
+
+.une-histoire-poigna {
+  width: 584px;
+  height: 87px;
+  font-family: WorkSans;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #d9926c;
+}
+.colonnes {
+  width: 560px;
